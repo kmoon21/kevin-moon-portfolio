@@ -17,23 +17,23 @@ export default function Hero() {
           Solo founder — architecture, backend, frontend, and production ops. One person, four shipped products.
         </p>
 
-        <div className="my-8 flex flex-wrap gap-3">
+        <div className="my-8 flex flex-col gap-3 sm:flex-row sm:flex-wrap">
           <a
             href="#projects"
-            className="rounded bg-ink px-5 py-[11px] font-mono text-[13px] text-bg hover:bg-green"
+            className="rounded bg-ink px-5 py-[11px] font-mono text-[13px] text-bg hover:bg-green text-center"
           >
             View projects
           </a>
           <a
             href="/resume.pdf"
             download
-            className="rounded border border-border px-5 py-[11px] font-mono text-[13px] hover:border-ink"
+            className="rounded border border-border px-5 py-[11px] font-mono text-[13px] hover:border-ink text-center"
           >
             Download resume
           </a>
           <a
             href="mailto:kevin.moon421@gmail.com"
-            className="rounded border border-border px-5 py-[11px] font-mono text-[13px] hover:border-ink"
+            className="rounded border border-border px-5 py-[11px] font-mono text-[13px] hover:border-ink text-center"
           >
             Email me
           </a>
