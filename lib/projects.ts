@@ -34,7 +34,7 @@ export const projects: Project[] = [
     ],
     engineeringNote:
       "Integrated the Claude API to power an AI coaching feature, engineering a validation dataset from 100+ professional matches to surface statistically meaningful performance thresholds rather than generic tips.",
-    tags: ["Next.js", "Supabase", "Claude API", "Cloudflare"],
+    tags: ["Next.js", "Supabase", "Claude API", "GraphQL", "Stripe", "Cloudflare"],
     url: "https://dotapulse.gg",
   },
   {
