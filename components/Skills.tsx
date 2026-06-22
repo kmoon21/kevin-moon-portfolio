@@ -11,6 +11,7 @@ const groups = [
       "Supabase / PostgreSQL",
       "Row-Level Security",
       "REST APIs",
+      "GraphQL",
       "Stripe",
       "Cron jobs",
     ],
