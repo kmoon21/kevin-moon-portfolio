@@ -28,7 +28,7 @@ export default function Contact() {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/kevin-moon-a5801a102/"
+            href="https://www.linkedin.com/in/kevinmoondev"
             target="_blank"
             rel="noopener"
             className="rounded border border-border px-5 py-[11px] font-mono text-[13px] hover:border-ink"
